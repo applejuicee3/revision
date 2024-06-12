@@ -1,0 +1,18 @@
+         Welcome to PBU Rental Car System
+***************************************************
+     No Type of Vehicles         Daily Rates(RM)   
+***************************************************
+     1  PERODUA AXIA              RM110
+     2  PERODUA MYVI              RM120
+     3  HONDA CITY                RM200
+     4  TOYOTA INNOVA             RM290
+     5  TOYOTA HILUX              RM350
+     6  HYUNDAI STAREX            RM450
+     7  TOYOTA VELLFIRE           RM700
+***************************************************
+
+	   Discount 15% >= 7 days
+           Discount 20% >= 1 month
+
+***************************************************
+
